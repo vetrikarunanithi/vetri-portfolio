@@ -18,7 +18,7 @@ const About = () => {
           <div className="about-info">
             <h3 className="about-heading">Who am I?</h3>
             <p className="about-text">
-              I'm Vetri Selvan, an aspiring web developer currently pursuing my BSc in Computer Science 
+              I'm Vetri Selvan, an aspiring software developer currently pursuing my BSc in Computer Science 
               with specialization in AI at Sathyabama University. I have a passion for creating beautiful, 
               functional websites and applications.
             </p>
