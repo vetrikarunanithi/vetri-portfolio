@@ -1,0 +1,104 @@
+.edu-section {
+  padding: 6rem 1rem;
+  background: #f9fafb;
+}
+
+.edu-container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.edu-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.edu-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #1f2937;
+}
+
+.edu-subtitle {
+  font-size: 1.1rem;
+  color: #6b7280;
+}
+
+.edu-vertical-timeline {
+  position: relative;
+  padding-left: 30px;
+}
+
+.edu-card {
+  position: relative;
+  margin-bottom: 3rem;
+  padding-left: 40px;
+}
+
+.edu-dot {
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  width: 14px;
+  height: 14px;
+  background-color: #3b82f6;
+  border-radius: 50%;
+}
+
+.edu-line {
+  position: absolute;
+  left: 6px;
+  top: 1.25rem;
+  bottom: -3rem;
+  width: 2px;
+  background-color: #d1d5db;
+}
+
+.edu-content {
+  background: white;
+  padding: 1.5rem 1.8rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  position: relative;
+}
+
+.edu-year {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #3b82f6;
+  background: #e0f2fe;
+  padding: 0.3rem 0.8rem;
+  border-radius: 30px;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+}
+
+.edu-degree {
+  font-size: 1.2rem;
+  color: #111827;
+  margin: 0.2rem 0;
+}
+
+.edu-institution {
+  font-size: 1rem;
+  color: #3b82f6;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.edu-description {
+  color: #4b5563;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .edu-content {
+    padding: 1.2rem;
+  }
+
+  .edu-title {
+    font-size: 2rem;
+  }
+}
