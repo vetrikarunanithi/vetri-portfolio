@@ -26,8 +26,9 @@ A **modern and responsive personal portfolio website** to showcase my **skills, 
 | **HTML5**         | Structure of the website |
 | **CSS3**          | Styling & responsiveness |
 | **JavaScript**    | Interactivity & logic   |
+| **React.js**      | Component-based dynamic UI |
 | **Vercel**        | Deployment & hosting    |
-
+	
 ---
 
 ## Project Structure  
