@@ -32,6 +32,61 @@ A **modern and responsive personal portfolio website** to showcase my **skills, 
 
 ## Project Structure  
 ```
-
+vetri-portfolio/
+├── public/
+│   ├── certificates/
+│   ├── images/
+│   ├── icons/
+│   └── index.html
+├── src/
+│   ├── assets/
+│   │   ├── data.js
+│   │   └── react.svg
+│   ├── components/
+│   │   ├── About/
+│   │   ├── Certification/
+│   │   ├── Contact/
+│   │   ├── Education/
+│   │   ├── Experience/
+│   │   ├── Footer/
+│   │   ├── Header/
+│   │   ├── Hero/
+│   │   ├── Projects/
+│   │   ├── Skills/
+│   │   └── Social/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── package.json
+├── README.md
+└── vite.config.js
 ```
+
+---
+
+## Live Demo  
+
+Check out the live portfolio here:  
+**[Vetri Portfolio on Vercel](https://vetri-portfolio-ten.vercel.app/)**  
+
+---
+
+## Getting Started  
+
+### 1️. Clone the repository  
+```bash
+git clone https://github.com/vetrikarunanithi/vetri-portfolio.git
+```
+### 2️. Navigate to the project folder
+```
+cd vetri-portfolio
+npm run dev
+```
+## Author
+**Vetriselvan Karunanithi**  
+GitHub: [vetrikarunanithi](https://github.com/vetrikarunanithi)  
+LinkedIn: [Vetriselvan Karunanithi](https://www.linkedin.com/in/vetriselvank)
+
 
