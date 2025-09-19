@@ -1,12 +1,37 @@
-# React + Vite
+# 🌐 Vetri Portfolio  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)  
+![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-blue?style=flat-square)  
+![Deployment](https://img.shields.io/badge/Deployed%20On-Vercel-black?style=flat-square&logo=vercel)  
 
-Currently, two official plugins are available:
+A **modern and responsive personal portfolio website** to showcase my **skills, projects, and experience** as a **Frontend Developer, Frontend Developer, Software Developer, UI/UX Designer, and Web Designer**.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Responsive Design** – Optimized for all devices  
+- **Minimal & Modern UI** – Professional look with smooth interactions  
+- **Project Showcase** – Highlights personal and professional projects  
+- **Skills & Experience** – Organized sections to reflect expertise  
+- **Contact Section** – Easy way to reach out  
+- **Vercel Deployment** – Hosted and deployed with Vercel for speed and reliability  
+
+---
+
+## Tech Stack  
+
+| Technology        | Purpose               |
+|-------------------|------------------------|
+| **HTML5**         | Structure of the website |
+| **CSS3**          | Styling & responsiveness |
+| **JavaScript**    | Interactivity & logic   |
+| **Vercel**        | Deployment & hosting    |
+
+---
+
+## Project Structure  
+```
+
+```
+
