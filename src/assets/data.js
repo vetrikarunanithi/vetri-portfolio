@@ -1,16 +1,6 @@
 export const projects = [
   {
     id: 1,
-    title: "Bookitevent - In Progress",
-    description: "Full-stack event booking platform with real-time updates",
-    tech: ["React", "Node.js", "MongoDB", "Express"],
-    category: "fullstack",
-    github: "https://drive.google.com/file/d/1nu6ntuceCseeL2BhBlzGq60LHuiAZC1y/view?usp=sharing",
-    live: "https://drive.google.com/file/d/1nu6ntuceCseeL2BhBlzGq60LHuiAZC1y/view?usp=sharing", 
-    image: "/images/bie.png"
-  },
-  {
-    id: 2,
     title: "Job Application Form",
     description: "Interactive form with email integration and validation",
     tech: ["HTML", "CSS", "JavaScript"],
@@ -18,10 +8,35 @@ export const projects = [
     github: "https://github.com/iamvetrioffl/Job-Application-Form",
     live: "https://iamvetrioffl.github.io/Job-Application-Form/",
     image: "/images/job.png"
+  },
+  {
+    id: 2,
+    title: "VeggiesNow - A 10mins Flash Vegitables Delivery App",
+    description: "Interactive form with email integration and validation",
+    tech: ["Python", "HTML", "CSS", "JavaScript", "JSON"],
+    category: "fullstack",
+    github: "https://github.com/vetrikarunanithi/veggies-now-app",
+    live: "https://veggies-now-app.onrender.com/",
+    image: "/images/veggies.png"
+  },
+  {
+    id: 3,
+    title: "Bookitevent - In Progress",
+    description: "Full-stack event booking platform with real-time updates",
+    tech: ["React", "Node.js", "MongoDB", "Express"],
+    category: "fullstack",
+    github: "https://drive.google.com/file/d/1nu6ntuceCseeL2BhBlzGq60LHuiAZC1y/view?usp=sharing",
+    live: "https://drive.google.com/file/d/1nu6ntuceCseeL2BhBlzGq60LHuiAZC1y/view?usp=sharing", 
+    image: "/images/bie.png"
   }
 ];
 
 export const skills = [
+  {
+    name: "Python",
+    icon: "/icons/python.png",
+    category: "Backend"
+  },
   {
     name: "JavaScript",
     icon: "/icons/javascript.png",
