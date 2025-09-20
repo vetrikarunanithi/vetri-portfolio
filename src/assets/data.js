@@ -13,7 +13,7 @@ export const projects = [
     id: 2,
     title: "VeggiesNow - A 10mins Flash Vegitables Delivery App",
     description: "Interactive form with email integration and validation",
-    tech: ["Python", "HTML", "CSS", "JavaScript", "JSON"],
+    tech: ["Python", "HTML", "CSS", "JavaScript"],
     category: "fullstack",
     github: "https://github.com/vetrikarunanithi/veggies-now-app",
     live: "https://veggies-now-app.onrender.com/",
