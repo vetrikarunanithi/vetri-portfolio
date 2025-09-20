@@ -11,7 +11,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "VeggiesNow - A 10mins Flash Vegitables Delivery App",
+    title: "VeggiesNow - A Flash Veg Del App",
     description: "Interactive form with email integration and validation",
     tech: ["Python", "HTML", "CSS", "JavaScript"],
     category: "fullstack",
@@ -93,6 +93,20 @@ export const certifications = [
     year: "2024",
     image: "/certificates/IOT.jpg",
     link: "https://drive.google.com/file/d/1bQExneP_uKW5AXoVl_durwga8Vq-MMek/view?usp=sharing"
+  },
+  {
+    title: "How to Approach System Design in MAANG",
+    issuer: "Scaler",
+    year: "2025",
+    image: "/certificates/Vetriselvan_SystemDesignMAANG_Scaler_Certificate.png",
+    link: "https://drive.google.com/file/d/1ZN284SYFFqLj5q7YemzeBTfZk-tEaqhe/view?usp=sharing"
+  },
+  {
+    title: "Low Level Design of Payment Apps",
+    issuer: "Scaler",
+    year: "2025",
+    image: "/certificates/Vetriselvan_LLD_Scaler_Certificate.png",
+    link: "https://drive.google.com/file/d/1n-IgfHmDJkVJBGeNXkbtO8j_30YfKuHx/view?usp=sharing"
   },
   {
     title: "UI/UX Design Foundations",
