@@ -18,14 +18,10 @@ const About = () => {
           <div className="about-info">
             <h3 className="about-heading">Who am I?</h3>
             <p className="about-text">
-              I'm Vetri Selvan, an aspiring software developer currently pursuing my BSc in Computer Science 
-              with specialization in AI at Sathyabama University. I have a passion for creating beautiful, 
-              functional websites and applications.
+              I'm Vetri Selvan, an aspiring software developer currently pursuing my BSc in Computer Science with a specialization in AI at Sathyabama University. My core expertise lies in web development, UI/UX designing, and web designing, where I focus on building engaging, user-friendly digital experiences using modern web technologies.
             </p>
             <p className="about-text">
-              My journey in web development started when I was in school, and since then I've been 
-              constantly learning and improving my skills. I specialize in frontend development with 
-              React and have experience in UI/UX design using Figma.
+              My journey in web development began during my school days, and since then, I’ve mastered frontend development with React and UI/UX design using Figma, creating seamless, visually appealing interfaces. While my foundation is strong in web technologies and design, I’m continuously advancing toward broader software development to become a well-rounded developer capable of building impactful solutions end-to-end.
             </p>
             <div className="about-details">
               <div className="about-detail">
@@ -48,7 +44,7 @@ const About = () => {
 
             <div className="about-btn-group">
               <a href="#contact" className="about-btn">Contact Me</a>
-              <a href="/images/Vetri_Resume.pdf" download className="about-btn download-btn">
+              <a href="/images/Vetriselvan_Resume.pdf" download className="about-btn download-btn">
                 <FaDownload className="download-icon" />
                 Resume
               </a>
