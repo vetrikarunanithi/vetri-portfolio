@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="footer-info">
             <h3 className="footer-title">Vetri Selvan K</h3>
             <p className="footer-description">
-              Aspiring Web Developer specializing in React and UI/UX Design.
+              Aspiring Software Developer with a strong focus on Python Full Stack Development, specializing in Web Development and UI/UX Design.
             </p>
           </div>
 
@@ -39,7 +39,7 @@ const Footer = () => {
           <p>&copy; {currentYear} Vetri Selvan. All rights reserved.</p>
           <div className="footer-social">
             <a href="https://www.linkedin.com/in/vetriselvank/" target="_blank" rel="noreferrer">LinkedIn</a>
-            <a href="https://github.com/iamvetrioffl" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://github.com/vetrikarunanithi" target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://www.facebook.com/vetriselvan.karunanithi.5" target="_blank" rel="noreferrer">Facebook</a>
           </div>
         </div>
