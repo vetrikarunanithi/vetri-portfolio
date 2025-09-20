@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-top">
           <div className="footer-info">
-            <h3 className="footer-title">Vetri Selvan K</h3>
+            <h3 className="footer-title">Vetri Selvan Karunanithi</h3>
             <p className="footer-description">
               Aspiring Software Developer with a strong focus on Python Full Stack Development, specializing in Web Development and UI/UX Design.
             </p>
