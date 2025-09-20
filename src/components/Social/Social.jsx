@@ -7,7 +7,7 @@ const Social = () => {
     {
       icon: <FaGithub />,
       label: "GitHub",
-      url: "https://github.com/iamvetrioffl"
+      url: "https://github.com/vetrikarunanithi"
     },
     {
       icon: <FaLinkedin />,
