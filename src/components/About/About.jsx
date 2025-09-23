@@ -18,7 +18,7 @@ const About = () => {
           <div className="about-info">
             <h3 className="about-heading">Who am I?</h3>
             <p className="about-text">
-              I'm Vetri Selvan, an aspiring software developer currently pursuing my BSc in Computer Science with a specialization in AI at Sathyabama University. My core expertise lies in web development, UI/UX designing, and web designing, where I focus on building engaging, user-friendly digital experiences using modern web technologies.
+              I'm Vetriselvan Karunanithi, an aspiring software developer currently pursuing my BSc in Computer Science with a specialization in AI at Sathyabama University. My core expertise lies in web development, UI/UX designing, and web designing, where I focus on building engaging, user-friendly digital experiences using modern web technologies.
             </p>
             <p className="about-text">
               My journey in web development began during my school days, and since then, I’ve mastered frontend development with React and UI/UX design using Figma, creating seamless, visually appealing interfaces. While my foundation is strong in web technologies and design, I’m continuously advancing toward broader software development to become a well-rounded developer capable of building impactful solutions end-to-end.
@@ -26,7 +26,7 @@ const About = () => {
             <div className="about-details">
               <div className="about-detail">
                 <span className="about-label">Name:</span>
-                <span className="about-value">Vetri Selvan K</span>
+                <span className="about-value">Vetriselvan Karunanithi</span>
               </div>
               <div className="about-detail">
                 <span className="about-label">Email:</span>
