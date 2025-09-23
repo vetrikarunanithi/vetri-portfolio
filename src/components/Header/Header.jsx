@@ -19,7 +19,7 @@ const Header = ({ activeSection, isScrolled }) => {
     <header className={`header-main ${isScrolled ? 'header-scrolled' : ''}`}>
       <div className="header-container">
         <a href="#home" className="header-logo">
-          Vetri<span>Selvan</span>
+          Vetri<span>selvan</span>
         </a>
 
         <nav className={`header-nav ${menuOpen ? 'header-nav-open' : ''}`}>
