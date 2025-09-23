@@ -1,7 +1,7 @@
 export const projects = [
   {
     id: 1,
-    title: "Job Application Form",
+    title: "Job Application Form - Your Career Starts with a Click",
     description: "Interactive form with email integration and validation",
     tech: ["HTML", "CSS", "JavaScript"],
     category: "web",
