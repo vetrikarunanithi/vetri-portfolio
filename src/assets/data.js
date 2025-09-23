@@ -21,6 +21,17 @@ export const projects = [
   },
   {
     id: 3,
+    title: "DocQuix - Quick Docs, Smarter Work",
+    description: "Full-stack web app for QR code generation & image-to-PDF conversion",
+    tech: ["Python", "Flask", "HTML", "CSS", "JavaScript"],
+    category: "fullstack",
+    github: "https://github.com/vetrikarunanithi/docquix-web-app",
+    live: "https://docquix-web-app.onrender.com/",
+    image: "/images/docquix.png"
+  },
+
+  {
+    id: 4,
     title: "Bookitevent - In Progress",
     description: "Full-stack event booking platform with real-time updates",
     tech: ["React", "Node.js", "MongoDB", "Express"],
