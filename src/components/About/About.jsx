@@ -44,7 +44,7 @@ const About = () => {
 
             <div className="about-btn-group">
               <a href="#contact" className="about-btn">Contact Me</a>
-              <a href="/images/Vetriselvan_Resume.pdf" download className="about-btn download-btn">
+              <a href="/images/vetriselvan_resume.pdf" download className="about-btn download-btn">
                 <FaDownload className="download-icon" />
                 Resume
               </a>
