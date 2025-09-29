@@ -5,8 +5,8 @@ export const projects = [
     description: "Interactive form with email integration and validation",
     tech: ["HTML", "CSS", "JavaScript"],
     category: "web",
-    github: "https://github.com/iamvetrioffl/Job-Application-Form",
-    live: "https://iamvetrioffl.github.io/Job-Application-Form/",
+    github: "https://github.com/vetrikarunanithi/Job-Application-Form",
+    live: "https://vetrikarunanithi.github.io/Job-Application-Form/",
     image: "/images/job.png"
   },
   {
