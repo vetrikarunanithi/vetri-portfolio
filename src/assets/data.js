@@ -44,6 +44,21 @@ export const projects = [
 
 export const skills = [
   {
+    name: "HTML",
+    icon: "/icons/html.png",
+    category: "Frontend"
+  },
+  {
+    name: "CSS",
+    icon: "/icons/css.png",
+    category: "Frontend"
+  },
+  {
+    name: "Tailwind CSS",
+    icon: "/icons/tailwindcss.png",
+    category: "Frontend"
+  },
+  {
     name: "Python",
     icon: "/icons/python.png",
     category: "Backend"
@@ -74,6 +89,11 @@ export const skills = [
     category: "Backend"
   },
   {
+    name: "MySQL",
+    icon: "/icons/mysql.png",
+    category: "Database"
+  },
+  {
     name: "Figma",
     icon: "/icons/figma.png",
     category: "UI/UX"
@@ -98,6 +118,27 @@ export const education = [
 ];
 
 export const certifications = [
+  {
+    title: "Software Engineer Intern",
+    issuer: "HackerRank",
+    year: "2025",
+    image: "/certificates/vetriselvan_software_engineer_intern_certificate_pages-to-jpg-0001.jpg",
+    link: "https://drive.google.com/file/d/12wlDADpXtH5sb8Ppks-MluOzijCVcQr1/view?usp=sharing"
+  },
+  {
+    title: "ReactJS",
+    issuer: "Infosys Springboard",
+    year: "2025",
+    image: "/certificates/vetriselvan_reactjs_infosysspringboard_certificate.jpg",
+    link: "https://drive.google.com/file/d/1ulXWW9rm_RQ4vn50PWGuaaiC9R2LxQII/view?usp=sharing"
+  },
+  {
+    title: "React Skill Test",
+    issuer: "ScholarHat",
+    year: "2025",
+    image: "/certificates/vetriselvan_reactskilltest_certificate.jpg",
+    link: "https://drive.google.com/file/d/15z15dKIL_UodoZWBmCFXZICoPyq2LTTr/view?usp=sharing"
+  },
   {
     title: "How to Approach System Design in MAANG",
     issuer: "Scaler",
@@ -134,7 +175,7 @@ export const certifications = [
     link: "https://drive.google.com/file/d/1gG77u4AjSk9ghBdiUUmvBi26sPgmhm8f/view?usp=sharing"
   },
 
-    {
+  {
     title: "Mastering JavaScript Fundamentals",
     issuer: "Geekster",
     year: "2024",
@@ -142,15 +183,15 @@ export const certifications = [
     link: "https://drive.google.com/file/d/1KPR-foP7WUB7qBsYYk-xqH92OUyzI0_J/view?usp=sharing"
   },
 
-    {
+  {
     title: "Git and GitHub",
     issuer: "Geekster",
     year: "2024",
     image: "/certificates/Git.jpg",
     link: "https://drive.google.com/file/d/1zuTojqcx6q4xkggFIXhoLXZk6dFGZpM2/view?usp=sharing"
-    },
+  },
 
-    {
+  {
     title: "Full Stack Development Workshop",
     issuer: "Credosystemz",
     year: "2024",
