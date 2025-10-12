@@ -55,7 +55,7 @@ export const skills = [
   },
   {
     name: "Tailwind CSS",
-    icon: "/icons/tailwindcss.jpg",
+    icon: "/icons/tailwindcss.png",
     category: "Frontend"
   },
   {
