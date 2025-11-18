@@ -39,7 +39,27 @@ export const projects = [
     github: "https://drive.google.com/file/d/1nu6ntuceCseeL2BhBlzGq60LHuiAZC1y/view?usp=sharing",
     live: "https://drive.google.com/file/d/1nu6ntuceCseeL2BhBlzGq60LHuiAZC1y/view?usp=sharing", 
     image: "/images/bie.png"
-  }
+  }, 
+  {
+    id: 5,
+    title: "T-Do List Web App",
+    description: "A simple and responsive To-Do List Web App built using Java (backend)",
+    tech: ["HTML", "CSS", "JavaScript", "Java"],
+    category: "web",
+    github: "https://github.com/vetrikarunanithi/to-do-list",
+    live: "https://to-do-list-eta-three-30.vercel.app/",
+    image: "/images/todolist.png"
+  },
+  {
+    id: 6,
+    title: "Smart AI Calculator",
+    description: "A modern and intelligent calculator web app powered by Google Gemini AI",
+    tech: ["HTML", "CSS", "JavaScript", "Python"],
+    category: "web",
+    github: "https://github.com/vetrikarunanithi/smart-ai-calculator",
+    live: "https://smart-ai-calculator-alpha.vercel.app/",
+    image: "/images/calculator.png"
+  },
 ];
 
 export const skills = [
@@ -119,6 +139,20 @@ export const education = [
 
 export const certifications = [
   {
+    title: "Getting Started with DevOps on AWS",
+    issuer: "AWS Training & Certification",
+    year: "2025",
+    image: "/certificates/devops.jpg",
+    link: "https://drive.google.com/file/d/1kFFmGTkZE3uERwPpP4Qt3E1MILIGgGkM/view?usp=sharing"
+  },
+  {
+    title: "Java Programmer Intern",
+    issuer: "VaultofCodes",
+    year: "2025",
+    image: "/certificates/javaprogrammer.jpg",
+    link: "https://drive.google.com/file/d/1RgbTApdjjFDWQqz0FW3_M18LAS5bMBhF/view?usp=sharing"
+  },
+  {
     title: "Software Engineer Intern",
     issuer: "HackerRank",
     year: "2025",
@@ -197,7 +231,7 @@ export const certifications = [
     year: "2024",
     image: "/certificates/CSWorkshop_Vetri.jpg",
     link: "https://drive.google.com/file/d/1Bi0ESJQ8K9oGZoon8KJf4_HiGo5pAm9z/view?usp=sharing"
-  }
+  }  
 ];
 
 export const experiences = [
@@ -214,6 +248,13 @@ export const experiences = [
     duration: "May 19, 2025 – June 30, 2025",
     description:
       "Built and maintained web applications using Flask, MySQL, and React. Participated in backend logic and frontend design."
-  }
+  },
+  {
+    company: "Vault of Codes",
+    role: "Java Programmer Intern",
+    duration: "Oct 01, 2025 – Nov 01, 2025",
+    description:
+      "Developed Java-based modules for backend automation and logic implementations."
+  }, 
 ];
 
