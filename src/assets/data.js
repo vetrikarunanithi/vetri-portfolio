@@ -60,6 +60,28 @@ export const projects = [
     live: "https://smart-ai-calculator-alpha.vercel.app/",
     image: "/images/calculator.png"
   },
+  {
+  id: 7,
+  title: "Grocofy",
+  description: "An online grocery ordering platform with cart and checkout features",
+  tech: ["React.js", "Node.js", "Express.js", "MongoDB"],
+  category: "web",
+  github: "https://github.com/vetrikarunanithi/grocofy",
+  live: "",
+  image: "/images/grocofy.png"
+  },
+  {
+  id: 8,
+  title: "OptiWork",
+  description: "A workforce task assignment system based on skills and workload",
+  tech: ["TypeScript", "Python", "Flask", "Scikit-learn", "MySQL"],
+  category: "web",
+  github: "https://github.com/vetrikarunanithi/optiwork-app",
+  live: "",
+  image: "/images/optiwork.png"
+  },
+
+
 ];
 
 export const skills = [
@@ -256,5 +278,13 @@ export const experiences = [
     description:
       "Developed Java-based modules for backend automation and logic implementations."
   }, 
+  {
+  company: "Excelerate",
+  role: "Mobile App Engineering Intern (Flutter)",
+  duration: "Oct 01, 2025 – Nov 15, 2025",
+  description:
+    "Worked on developing an e-learning mobile application using Flutter, including UI screens and basic navigation."
+  },
+
 ];
 
